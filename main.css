@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .app-desc-text{
-    @apply font-regular h-full basis-1/3 p-5 text-left leading-loose flex flex-col justify-between
+    @apply font-regular h-full basis-1/3 p-5 text-left leading-loose flex flex-col justify-between invisible lg:visible
 }
 
 .app-desc-point{
