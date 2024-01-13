@@ -14,8 +14,8 @@ module.exports = {
         "regular": ['Roboto Condensed', "sans-serif"]
       },
       fontSize: {
-        "regular": "32px",
-        "subheading": "48px",
+        "regular": "28px",
+        "subheading": "56px",
         "heading": "64px"
       }
     },
