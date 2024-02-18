@@ -9,3 +9,8 @@
 .app-desc-point{
     @apply bg-secondary text-white p-2 rounded-md bg-opacity-80
 }
+
+.gif-border{
+    border-width: 2px;
+    border-color: black;
+}
